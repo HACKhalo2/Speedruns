@@ -12,24 +12,36 @@ You can find general knowledge that will be useful with any route you take
 
 ## Killing Animals for a Necklace (Split 1)
 
-  * Skip Cutscene
-  * Avoid all encounters, bridges to help avoid bats.
+  * Spam X to Skip Cutscene
+  * Hold O to run, take lower right path
+  * Run up the first staircase to the left, avoid the enemies
+  * Run up the spiral staircase, trying to avoid the pillars
+  * Run all the way to the end of the path, go in the door
+  * disable the purple crystal thing, exit room
+  * Take the second staircase on the right, avoid the enemies
   * Run past elevator to pull characters in.
-  * Talk to Leena.
-  * Shop
-    * 2 Fireballs
-  * Menu
-    * Serge (Elements) - Fireball lvl 1, Fill Blanks
-    * Options - Accuracy Selection: Manual, O Button Pressed: Walk
-  * Ideally specific drops of feather/2 humours/fang. Backup strats later if you
-    don't get them.
-  * Top Path Komodo - 2/2/Fireball
-  * Jump Komodo - 2/2/Fireball
-  * Can accept beach bum blocking path to cliff for extra humour try.
-  * Race Komodo - 2/2/Weak Fireball
+  * Spam X through the cutscenes, run up to the door, more cutscenes and more spamming
+  * After gaining control of Serge, run outside
+  * Go up to the docks and talk to Leena
+  * Go to the Shop
+    * Buy Two (2) Fireball Elements
+  * Triangle Menu
+    * Allocate Elements (Serge)
+      * Fill Blanks, then equip the second Fireball to Level 1
+    * Options
+      * Accuracy Selection: **Manual**
+      * O Button Pressed: **Walk**
+  * Exit village using the right path
+  * Head to Lizard Rock (South West from the Village)
+    * *Ideally specific drops of feather/2 humours/fang. Backup strats later if you
+    don't get them.*
+  * Top Path Komodo - 2/2/Fireball+2
+  * Jump Komodo - 2/2/Fireball+2
+    * **Backup Strait Attempt 1**: *Can accept fight from Beach Bum blocking the path to the cliff for an extra humour try.*
+  * Race Komodo - 2/2/Fireball
   * [**Momma Komodo (76)**][5] 
-    * 2/2/2/Fireball (49 or above HP fireball for single pass). 2/2 your way to
-      victory if any issues.
+    * 2/2/2/Fireball+2 *(49 or above HP fireball for single pass).* 
+    * 2/2 your way to victory if any issues arise.
 
 ## Kid (Split 2)
 
