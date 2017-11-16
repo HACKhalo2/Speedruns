@@ -1,6 +1,6 @@
 # Chrono Cross
 
-Any % run on PSN currently. I based a lot of my notes off the guides found
+Any% run on PSN currently. I based a lot of my notes off the guides found
 [here][1] (Can't overstate the use of EvilAsh's notes and run from RPG Limit
 Break I filled in some new runner gaps, but this is basically just an extension
 of his notes.) and [here][3], as well as the speedrun from [RPG Limit Break][4].
@@ -33,37 +33,41 @@ You can find general knowledge that will be useful with any route you take
       * O Button Pressed: **Walk**
   * Exit village using the right path
   * Head to Lizard Rock (South West from the Village)
-    * *Ideally specific drops of feather/2 humours/fang. Backup strats later if you don't get them.*
+    * *Ideally specific drops of Feather/2 Humours/Fang. Backup strats later if you don't get them.*
   * Top Path Komodo - 2/2/Fireball+2
   * Jump Komodo - 2/2/Fireball+2
-    * **Backup Strait Attempt 1**: *Can accept fight from Beach Bum blocking the path to the cliff for an extra humour try.*
+    * **Backup Strait Attempt 1**: *Can accept fight from Beach Bum blocking the path to the cliff for an extra Humour try.*
   * Race Komodo - 2/2/Fireball
   * [**Momma Komodo (76)**][5]
-    * Defend first turn to regain stamina
+    * Defend to regain stamina
     * 2/2/2/Fireball+2 *(49 or above HP fireball for single pass).* 
     * 2/2 your way to victory if any issues arise.
 
 ## Kid (Split 2)
 
-  * Go to the beach, cutscene with Leena
+  * Go to the beach (South), cutscene with Leena
     * Choose 1st Option on the first choice box, 2nd option on 2nd Choice box to save a little bit of text.
   * Go back to the Village
-    * **Backup Strait Attempt 2**: *Go to island in middle or race circle*.
+    * **Backup Strait Attempt 2**: *Go to island in middle or race circle, there is a Feather in a chest*.
     * Take path on upper and to the left side to jump back to entrance.
   * Go up to the docks and talk to Leena
   * Head to Cape Howl.
   * **Option for Full Play through, and probably useful in a marathon**
-    * Fight 2 beach bum fights to pick up 2 humours (fight both fights
-      regardless of if you already have humours) to get [stat boosts][20].
+    * Fight the 2 Beach Bums to pick up 2 humours **(fight both fights
+      regardless of if you already have humours)** to get [stat boosts][20].
       These boosts are duplicated in the next fight, so now is a good time to
       reset if bad stats.
   * [**Karsh/Solt/Peppor (120/9 54/9 63/9)**][6]
-    * Defend until all text is finished since damage before text is nullified.
-      **Text moves when Solt hits Serge.**
-    * Kid - 1/2/Magma Bomb on Solt
-    * Serge - 1/1/2/2 Solt Fireball (Normal) Peppor
-    * Kid - 1/2/3 Fireball
-    * Serge - 1/2/2 Fireball +2
+    * Defend until all text is finished since damage before text is nullified. **Text starts when Solt hits Serge.**
+    * Target: **Solt**
+      * Kid - 1/2/Magma Bomb
+      * Serge - 1/1/2/3 (_Solt dies_)
+    * Target: **Peppor**
+      * Serge - Fireball
+      * Kid - Fireball (_Peppor dies_)
+    * Target: **Karsh**
+      * Kid - 1/2/3 Fireball+2
+      * Serge - 1/2 Fireball+2 (_Karsh dies_)
     * _Ivory Helmet/Ivory Vest/Bone Axe_ (Common)
     * _Copper/Copper/Power Glove_ (Rare)
   * Rename Kid to K
@@ -71,21 +75,22 @@ You can find general knowledge that will be useful with any route you take
 ## Little Bit of Solt and Peppor (Split 3)
 
   * When Kid asks to join, say no 3 times. (2nd option)
-  * Get Magma Bomb after Leena and Poshul join.
+  * Get Magma Bomb behind the boxes to the left after Leena and Poshul join.
   * Menu
-    * Leena (Elements) - Magma Bomb Lvl 3
-    * Poshul (Equip) - Ivory Vest if need a backup humour.
+    * Leena (Elements) - Magma Bomb+1 (Lvl 3)
+    * Poshul (Equip) - Ivory Vest _(Disassemble Ivory Mail for an extra humour, if needed)_.
     * Serge (Equip) - Power Glove if you got it.
-  * Backup Humour - Cape Howl Beach Bum fight. Leena 1/1/1/Magma Bomb.
-  * Fossil Valley
-  * Switch to Leena in front. (Select)
+  * **Backup Strats Attempt 3**: *Fight the Beach Bums in Cape Cowl for extra Humour tries.*
+  * Head to Fossil Valley (North of the Village)
+  * Switch to Leena in front. (Select once)
   * [**Solt and Peppor (84/7 94/8)**][7]
-    * Go for Solt first.
-    * Leena - 3/3 (You only get 2 actions) Magma Bomb if you get it.
-    * Serge - 1/Fireball
-    * Leena - Magma bomb if not above/1
-    * Poshul - 1/2/3 to finish Solt
-    * Serge - 1/2/2/Fireball+2 Peppor
+    * Target: **Solt**
+      * Leena - 3/3
+      * Serge - 1 Fireball
+      * Leena - 1 MagmaBomb+1
+      * Poshul - 1/2/3 (_Solt dies_)
+    * Target: **Peppor**
+      * Serge - 1/2/2 Fireball+2 (_Peppor dies_)
     * _Copper/Uplift_ (Common)
     * _ElectroJolt/Copper_ (Rare)
 
@@ -93,31 +98,32 @@ You can find general knowledge that will be useful with any route you take
 
   * Spam X through cutscene when entering Termina
   * After you gain control, spam through Kid's dialog
-  * Go to the top of the stairs and talk to the statue polisher, get Kid, replace Leena
+  * Go to the top of the stairs and talk to the statue polisher, replace **Leena** with **Kid**
   * Go down one flight of stairs and to the right, then up the first path in the next area
-  * Pick up the Profiteer Purse under the stair case of the mansion past the Smithy shop.
-  * Talk to the Smithy, and disassemble the Profiteer Purse and Ivory Mail. Now build the Steel Swallow and Iron Dagger.
-      * **You need 1K gold to be able to craft both items**
-  * Menu
+  * Enter the mansion at the end of the path, and pick up the _Profiteer Purse_ under the stair case.
+  * Exit the mansion, enter the Smithy, and talk to the woman behind the counter.
+    * Disassemble the _Profiteer Purse_ and _Ivory Mail_.
+    * Build the Steel Swallow and Iron Dagger. **You need 1K gold to be able to craft both items**
+  * Triangle Menu
     * Serge (Equip) - Steel Swallow/Ivory Helmet
     * Kid (Equip) - Iron Dagger
-  * Talk to Pierre in the south room of the Smithy
-  * Go south into the yard, get the Medal of Honor from the running child.
-  * Give the metal to Pierre with Square menu, then talk to him again, replace Poshul with Pierre
+  * Talk to **Pierre** in the south room of the Smithy
+  * Go south into the yard, get the _Medal of Honor_ from the running child.
+  * Give the metal to **Pierre** with Square menu, then talk to him again, replace **Poshul** with **Pierre**
   * Exit Termina, Head to Viper Manor (Northeast of Termina)
-  * Charge the [**Guards (70 84)**][8]
+  * **Charge** the [**Guards (70 84)**][8]
     * Serge - 2/2/3
     * Kid - 2/2/3
-    * Serge - 2/2/3
-    * Kid - 2/2/3
+    * **Repeat the above until they die**
     * _Tablet/Copper_ (Common)
     * _PhotonRay/Meteor_ (Rare)
 
 ## Ketchop (Split 5)
 
-  * Switch to Pierre being in front so he takes the Ketchop hit.
+  * Switch to **Pierre** being in front (Select once) so he takes the Ketchop hit.
   * [**Solt/Peppor/Ketchop (273/9)**][9]
-    * NOTE: Always hit Ketchop as he will kill Solt and Peppor for you.
+    * **NOTE 1: Always hit Ketchop as he will kill Solt and Peppor for you.**
+    * **NOTE 2: All Defend if you need Stamina**
     * Serge - 1/2/3/Dash & Slash
     * Kid - 2/2/3
     * Serge - 2/2/3
@@ -127,9 +133,9 @@ You can find general knowledge that will be useful with any route you take
 ## Luccia (Split 6)
 
   * Get the Turn Yellow behind the gate.
-  * Menu
+  * Triangle Menu
     * Heal characters
-  * Guard Fight - 2/2/3 your way to victory.
+  * Guard Fight(s) - 2/2/3 your way to victory.
   * Head to the stables
     * Southeast on the first screen
     * Northeast on the second screen
