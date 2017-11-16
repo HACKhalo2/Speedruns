@@ -17,7 +17,7 @@ You can find general knowledge that will be useful with any route you take
   * Run up the first staircase to the left, avoid the enemies
   * Run up the spiral staircase, trying to avoid the pillars
   * Run all the way to the end of the path, go in the door
-  * disable the purple crystal thing, exit room
+  * Disable the purple crystal thing, exit room
   * Take the second staircase on the right, avoid the enemies
   * Run past elevator to pull characters in.
   * Spam X through the cutscenes, run up to the door, more cutscenes and more spamming
@@ -33,23 +33,24 @@ You can find general knowledge that will be useful with any route you take
       * O Button Pressed: **Walk**
   * Exit village using the right path
   * Head to Lizard Rock (South West from the Village)
-    * *Ideally specific drops of feather/2 humours/fang. Backup strats later if you
-    don't get them.*
+    * *Ideally specific drops of feather/2 humours/fang. Backup strats later if you don't get them.*
   * Top Path Komodo - 2/2/Fireball+2
   * Jump Komodo - 2/2/Fireball+2
     * **Backup Strait Attempt 1**: *Can accept fight from Beach Bum blocking the path to the cliff for an extra humour try.*
   * Race Komodo - 2/2/Fireball
-  * [**Momma Komodo (76)**][5] 
+  * [**Momma Komodo (76)**][5]
+    * Defend first turn to regain stamina
     * 2/2/2/Fireball+2 *(49 or above HP fireball for single pass).* 
     * 2/2 your way to victory if any issues arise.
 
 ## Kid (Split 2)
 
-  * Choose 2nd option on 2nd Choice box when talking to Leena to save a little
-    bit of text.
-  * Feather backup - Go to island in middle or race circle.
-  * Take path on upper and to the left side to jump back to entrance.
-  * Talk to Leena
+  * Go to the beach, cutscene with Leena
+    * Choose 1st Option on the first choice box, 2nd option on 2nd Choice box to save a little bit of text.
+  * Go back to the Village
+    * **Backup Strait Attempt 2**: *Go to island in middle or race circle*.
+    * Take path on upper and to the left side to jump back to entrance.
+  * Go up to the docks and talk to Leena
   * Head to Cape Howl.
   * **Option for Full Play through, and probably useful in a marathon**
     * Fight 2 beach bum fights to pick up 2 humours (fight both fights
@@ -58,18 +59,18 @@ You can find general knowledge that will be useful with any route you take
       reset if bad stats.
   * [**Karsh/Solt/Peppor (120/9 54/9 63/9)**][6]
     * Defend until all text is finished since damage before text is nullified.
-      Text moves when Solt hits Serge.
+      **Text moves when Solt hits Serge.**
     * Kid - 1/2/Magma Bomb on Solt
     * Serge - 1/1/2/2 Solt Fireball (Normal) Peppor
     * Kid - 1/2/3 Fireball
-    * Serge - 1/2/2 Fireball
+    * Serge - 1/2/2 Fireball +2
     * _Ivory Helmet/Ivory Vest/Bone Axe_ (Common)
     * _Copper/Copper/Power Glove_ (Rare)
   * Rename Kid to K
 
 ## Little Bit of Solt and Peppor (Split 3)
 
-  * Say no to Kid 3 times. 2nd option all 3 times.
+  * When Kid asks to join, say no 3 times. (2nd option)
   * Get Magma Bomb after Leena and Poshul join.
   * Menu
     * Leena (Elements) - Magma Bomb Lvl 3
@@ -77,7 +78,7 @@ You can find general knowledge that will be useful with any route you take
     * Serge (Equip) - Power Glove if you got it.
   * Backup Humour - Cape Howl Beach Bum fight. Leena 1/1/1/Magma Bomb.
   * Fossil Valley
-  * Switch to Leena in front.
+  * Switch to Leena in front. (Select)
   * [**Solt and Peppor (84/7 94/8)**][7]
     * Go for Solt first.
     * Leena - 3/3 (You only get 2 actions) Magma Bomb if you get it.
@@ -90,19 +91,21 @@ You can find general knowledge that will be useful with any route you take
 
 ## Gate Crashers (Split 4)
 
-  * Talk to the statue polisher.
-  * Pick up the Profiteer Purse under the stair case of the mansion past the
-    Smithy shop.
-  * Talk to the Smithy, and disassemble the Profiteer Purse and Ivory Mail. Now
-    build the Steel Swallow and Iron Dagger.
+  * Spam X through cutscene when entering Termina
+  * After you gain control, spam through Kid's dialog
+  * Go to the top of the stairs and talk to the statue polisher, get Kid, replace Leena
+  * Go down one flight of stairs and to the right, then up the first path in the next area
+  * Pick up the Profiteer Purse under the stair case of the mansion past the Smithy shop.
+  * Talk to the Smithy, and disassemble the Profiteer Purse and Ivory Mail. Now build the Steel Swallow and Iron Dagger.
+      * **You need 1K gold to be able to craft both items**
   * Menu
     * Serge (Equip) - Steel Swallow/Ivory Helmet
     * Kid (Equip) - Iron Dagger
-  * Talk to Pierre.
-  * Get Medal of Honor from running child.
-  * Talk to Pierre again.
-  * Head to Viper Manor, but Tele-Porter Pierre into Poshul's spot.
-  * [**Guards (70 84)**][8]
+  * Talk to Pierre in the south room of the Smithy
+  * Go south into the yard, get the Medal of Honor from the running child.
+  * Give the metal to Pierre with Square menu, then talk to him again, replace Poshul with Pierre
+  * Exit Termina, Head to Viper Manor (Northeast of Termina)
+  * Charge the [**Guards (70 84)**][8]
     * Serge - 2/2/3
     * Kid - 2/2/3
     * Serge - 2/2/3
@@ -127,8 +130,12 @@ You can find general knowledge that will be useful with any route you take
   * Menu
     * Heal characters
   * Guard Fight - 2/2/3 your way to victory.
-  * Head to the stables, choose the option to feed 10, then get the Manor Key.
-  * Turn the statue 0/0 as you can't get this right first try.
+  * Head to the stables
+    * Southeast on the first screen
+    * Northeast on the second screen
+  * Choose the option to feed 10, then get the Manor Key.
+  * Head back to the Manor Entrance
+  * In the Manor, Turn the statue 0/0 as you can't get this right first try.
   * Cell Guards
     * Serge - 2/2/3
     * Kid - 2/2/2/Magma Bomb
