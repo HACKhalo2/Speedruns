@@ -142,9 +142,8 @@ You can find general knowledge that will be useful with any route you take
     * Serge - 2/2/3
   * Go to dining room and talk to Glenn.
   * Get Dragoon's Honor in corner.
-  * Let Glenn walk through door before going in.
-  * Walk into bedroom, and grab revive on left hand side, then get code from the
-    wall next to Glenn.
+  * Hug the walls of the hallway, and let Glenn walk through door of the bedroom before going in.
+  * Grab the revive on left hand side, then get code from the north wall next after Glenn walks away.
   * Go to treasure room, and don't say anything when prompted.
   * Pick up Bronze Sword and Bronze Mail from treasure room.
   * Menu
@@ -156,12 +155,13 @@ You can find general knowledge that will be useful with any route you take
     * Serge - 2/3/2
     * Kid - 2/2/3
     * Serge - 2/2/2/Dash & Slash
+    * Kid - 2/2/3 (if needed)
     * _Eagle Eye_ (Common)
     * _AeroSaucer_ (Rare)
 
 ## Marcy (Split 7)
 
-  * Go to Karsh's Room (2nd door up the stairs) and try to take chest 20 times
+  * Go to Karsh's Room (2nd door up the stairs, hug the walls) and try to take chest 20 times
     for Dragoon's Gauntlet.
   * Menu
     * Serge (Equip) - Dragoon's Gauntlet
