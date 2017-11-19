@@ -21,22 +21,24 @@ You can find general knowledge that will be useful with any route you take
   * Take the second staircase on the right, avoid the enemies
   * Run past elevator to pull characters in.
   * Spam X through the cutscenes, run up to the door, more cutscenes and more spamming
-  * After gaining control of Serge, run outside
-  * Go up to the docks and talk to Leena
+  * After gaining control of **Serge**, run outside
+  * Go up to the docks and talk to **Leena**
   * Go to the Shop
     * Buy Two (2) Fireball Elements
   * Triangle Menu
-    * Allocate Elements (Serge)
-      * Fill Blanks, then equip the second Fireball to Level 1
+    * Elements/Allocate
+      * Serge
+        * Fill Blanks
+        * Level 1 - Fireball (Replace)
     * Options
       * Accuracy Selection: **Manual**
       * O Button Pressed: **Walk**
   * Exit village using the right path
-  * Head to Lizard Rock (South West from the Village)
-    * *Ideally specific drops of Feather/2 Humours/Fang. Backup strats later if you don't get them.*
+  * Head to Lizard Rock (Southwest of the Village)
+    * _Ideally specific drops of Feather/2 Humours/Fang. Backup strats later if you don't get them._
   * Top Path Komodo - 2/2/Fireball+2
   * Jump Komodo - 2/2/Fireball+2
-    * **Backup Strait Attempt 1**: *Can accept fight from Beach Bum blocking the path to the cliff for an extra Humour try.*
+    * **Backup Strait Attempt 1**: _Can accept fight from Beach Bum blocking the path to the cliff for an extra Humour try._
   * Race Komodo - 2/2/Fireball
   * [**Momma Komodo (76)**][5]
     * Defend to regain stamina
@@ -45,12 +47,12 @@ You can find general knowledge that will be useful with any route you take
 
 ## Legs for DAYS (Split 2)
 
-  * Go to the Beach (South of the Village), cutscene with Leena
+  * Go to the Beach (South of the Village), cutscene with **Leena**
     * _Choose 1st option on the first choice box, 2nd option on 2nd choice box to save a little bit of text._
-  * Go back to the Village
+  * After the cutscene and dialog, go back to the Village
     * **Backup Strait Attempt 2**: _Go to island in middle or race circle, there is a Feather in a chest_.
     * Take upper path and to the left side to jump back to entrance.
-  * Go up to the docks and talk to Leena
+  * Go up to the docks and talk to **Leena**
   * Head to Cape Howl (Northwest of the Village).
   * **Option for Full Play through, and probably useful in a marathon**
     * _Fight the 2 Beach Bums to pick up 2 humours **(fight both fights regardless of if you already have humours)** to get [stat boosts][20]. These boosts are duplicated in the next fight, so now is a good time to reset if bad stats._
@@ -74,9 +76,14 @@ You can find general knowledge that will be useful with any route you take
   * When **Kid** asks to join, say **no (2nd option)** 3 times.
   * Get _MagmaBomb_ behind the boxes to the left after **Leena** and **Poshul** join.
   * Triangle Menu
-    * Leena (Elements) - Magma Bomb+1 (Lvl 3)
-    * Poshul (Equip) - Ivory Vest _(Disassemble Ivory Mail for an extra humour, if needed)_.
-    * Serge (Equip) - Power Glove if you got it.
+    * Elements/Allocate
+      * Leena
+        * Level 3 - MagmaBomb
+    * Equip
+      * Poshul
+        * Ivory Vest _(Disassemble Ivory Mail for an extra humour, if needed)_.
+      * Serge
+        * Power Glove _(if you got it from the last fight, otherwise **skip**)
   * **Backup Strats Attempt 3**: *Fight the Beach Bums in Cape Cowl for extra Humour tries.*
   * Head to Fossil Valley (North of the Village)
   * Switch to **Leena** in front. (Select once)
@@ -138,17 +145,21 @@ You can find general knowledge that will be useful with any route you take
     * Southeast on the first screen
     * Northeast on the second screen
   * Talk to the Stable Head, choose the option to feed 10, then get the Manor Key.
-    * 
+    * Angry Dragon Order (_from EvilAsh's notes_)
+      * Grab **3** feed, then 235
+      * Grab **2** feed, then 14
+      * Grab **3** feed, then 235
+      * Grab **2** feed, then 12
   * Head back to the Manor Entrance
-  * In the Manor, Turn the statue 0/0 as you can't get this right first try.
+  * In the Manor, Turn the statue 0/0
   * Cell Guards
     * Serge - 2/2/3
     * Kid - 2/2/2/Magma Bomb
     * Serge - 2/2/3
-  * Go to dining room and talk to Glenn.
+  * Go to dining room and talk to **Glenn**.
   * Get Dragoon's Honor in corner.
-  * Hug the walls of the hallway, and let Glenn walk through door of the bedroom before going in.
-  * Grab the revive on left hand side, then get code from the north wall next after Glenn walks away.
+  * Hug the walls of the hallway, and let **Glenn** walk through door of the bedroom before going in.
+  * Grab the revive on left hand side, then get code from the north wall next after **Glenn** walks away.
   * Go to treasure room, and don't say anything when prompted.
   * Pick up Bronze Sword and Bronze Mail from treasure room.
   * Menu
