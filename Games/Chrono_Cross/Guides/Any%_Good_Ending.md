@@ -10,10 +10,10 @@ of his notes.) and [here][3], as well as the speedrun from [RPG Limit Break][4].
 You can find general knowledge that will be useful with any route you take
 [here][2]. This includes things like Stamina Pushing, Attack Queueing, etc...
 
-## Killing Animals for a Necklace (Split 1)
+## Killing Komodos for Leena (Split 1)
 
-  * Spam X to Skip Cutscene
-  * Hold O to run, take lower right path
+  * Spam X to skip the Cutscene
+  * **Hold O to run**, take lower right path
   * Run up the first staircase to the left, avoid the enemies
   * Run up the spiral staircase, trying to avoid the pillars
   * Run all the way to the end of the path, go in the door
@@ -43,54 +43,51 @@ You can find general knowledge that will be useful with any route you take
     * 2/2/2/Fireball+2 *(49 or above HP fireball for single pass).* 
     * 2/2 your way to victory if any issues arise.
 
-## Kid (Split 2)
+## Legs for DAYS (Split 2)
 
-  * Go to the beach (South), cutscene with Leena
-    * Choose 1st Option on the first choice box, 2nd option on 2nd Choice box to save a little bit of text.
+  * Go to the Beach (South of the Village), cutscene with Leena
+    * _Choose 1st option on the first choice box, 2nd option on 2nd choice box to save a little bit of text._
   * Go back to the Village
-    * **Backup Strait Attempt 2**: *Go to island in middle or race circle, there is a Feather in a chest*.
-    * Take path on upper and to the left side to jump back to entrance.
+    * **Backup Strait Attempt 2**: _Go to island in middle or race circle, there is a Feather in a chest_.
+    * Take upper path and to the left side to jump back to entrance.
   * Go up to the docks and talk to Leena
-  * Head to Cape Howl.
+  * Head to Cape Howl (Northwest of the Village).
   * **Option for Full Play through, and probably useful in a marathon**
-    * Fight the 2 Beach Bums to pick up 2 humours **(fight both fights
-      regardless of if you already have humours)** to get [stat boosts][20].
-      These boosts are duplicated in the next fight, so now is a good time to
-      reset if bad stats.
-  * [**Karsh/Solt/Peppor (120/9 54/9 63/9)**][6]
-    * Defend until all text is finished since damage before text is nullified. **Text starts when Solt hits Serge.**
-    * Target: **Solt**
-      * Kid - 1/2/Magma Bomb
+    * _Fight the 2 Beach Bums to pick up 2 humours **(fight both fights regardless of if you already have humours)** to get [stat boosts][20]. These boosts are duplicated in the next fight, so now is a good time to reset if bad stats._
+  * [**Karsh/Solt/Peppor (120/54/63)**][6]
+    * Defend until all text is finished (any damage beforehand is nullified). **Text starts when Solt hits Serge.**
+    * Target: **Solt** _(9 Action Points)_
+      * Kid - 1/2/MagmaBomb
       * Serge - 1/1/2/3 (_Solt dies_)
-    * Target: **Peppor**
+    * Target: **Peppor** _(9 Action Points)_
       * Serge - Fireball
       * Kid - Fireball (_Peppor dies_)
-    * Target: **Karsh**
-      * Kid - 1/2/3 Fireball+2
-      * Serge - 1/2 Fireball+2 (_Karsh dies_)
+    * Target: **Karsh** _(9 Action Points)_
+      * Kid - 1/2/3/Fireball+2
+      * Serge - 1/2/Fireball+2 (_Karsh dies_)
     * _Ivory Helmet/Ivory Vest/Bone Axe_ (Common)
     * _Copper/Copper/Power Glove_ (Rare)
   * Rename Kid to K
 
-## Little Bit of Solt and Peppor (Split 3)
+## Pinch of Solt and Peppor (Split 3)
 
-  * When Kid asks to join, say no 3 times. (2nd option)
-  * Get Magma Bomb behind the boxes to the left after Leena and Poshul join.
-  * Menu
+  * When **Kid** asks to join, say **no (2nd option)** 3 times.
+  * Get _MagmaBomb_ behind the boxes to the left after **Leena** and **Poshul** join.
+  * Triangle Menu
     * Leena (Elements) - Magma Bomb+1 (Lvl 3)
     * Poshul (Equip) - Ivory Vest _(Disassemble Ivory Mail for an extra humour, if needed)_.
     * Serge (Equip) - Power Glove if you got it.
   * **Backup Strats Attempt 3**: *Fight the Beach Bums in Cape Cowl for extra Humour tries.*
   * Head to Fossil Valley (North of the Village)
-  * Switch to Leena in front. (Select once)
+  * Switch to **Leena** in front. (Select once)
   * [**Solt and Peppor (84/7 94/8)**][7]
-    * Target: **Solt**
+    * Target: **Solt** _(7 Action Points)_
       * Leena - 3/3
-      * Serge - 1 Fireball
-      * Leena - 1 MagmaBomb+1
+      * Serge - 1/Fireball
+      * Leena - 1/MagmaBomb+1
       * Poshul - 1/2/3 (_Solt dies_)
-    * Target: **Peppor**
-      * Serge - 1/2/2 Fireball+2 (_Peppor dies_)
+    * Target: **Peppor** _(8 Action Points)_
+      * Serge - 1/2/2/Fireball+2 (_Peppor dies_)
     * _Copper/Uplift_ (Common)
     * _ElectroJolt/Copper_ (Rare)
 
@@ -101,16 +98,16 @@ You can find general knowledge that will be useful with any route you take
   * Go to the top of the stairs and talk to the statue polisher, replace **Leena** with **Kid**
   * Go down one flight of stairs and to the right, then up the first path in the next area
   * Enter the mansion at the end of the path, and pick up the _Profiteer Purse_ under the stair case.
-  * Exit the mansion, enter the Smithy, and talk to the woman behind the counter.
+  * Exit the Mansion and enter the Smithy, talk to the woman behind the counter.
     * Disassemble the _Profiteer Purse_ and _Ivory Mail_.
-    * Build the Steel Swallow and Iron Dagger. **You need 1K gold to be able to craft both items**
+    * Build the _Steel Swallow_ and _Iron Dagger_. **You need 1K gold to be able to craft both items**
   * Triangle Menu
     * Serge (Equip) - Steel Swallow/Ivory Helmet
     * Kid (Equip) - Iron Dagger
   * Talk to **Pierre** in the south room of the Smithy
   * Go south into the yard, get the _Medal of Honor_ from the running child.
   * Give the metal to **Pierre** with Square menu, then talk to him again, replace **Poshul** with **Pierre**
-  * Exit Termina, Head to Viper Manor (Northeast of Termina)
+  * Leave Termina, Head to Viper Manor (Northeast of Termina)
   * **Charge** the [**Guards (70 84)**][8]
     * Serge - 2/2/3
     * Kid - 2/2/3
@@ -118,7 +115,7 @@ You can find general knowledge that will be useful with any route you take
     * _Tablet/Copper_ (Common)
     * _PhotonRay/Meteor_ (Rare)
 
-## Ketchop (Split 5)
+## Bottle o' Ketchop (Split 5)
 
   * Switch to **Pierre** being in front (Select once) so he takes the Ketchop hit.
   * [**Solt/Peppor/Ketchop (273/9)**][9]
@@ -132,14 +129,16 @@ You can find general knowledge that will be useful with any route you take
 
 ## Luccia (Split 6)
 
-  * Get the Turn Yellow behind the gate.
+  * Get the _Turn Yellow_ behind the gate.
   * Triangle Menu
-    * Heal characters
-  * Guard Fight(s) - 2/2/3 your way to victory.
+    * Heal Everyone
+  * Guard Fight(s)
+    * 2/2/3 your way to victory.
   * Head to the stables
     * Southeast on the first screen
     * Northeast on the second screen
-  * Choose the option to feed 10, then get the Manor Key.
+  * Talk to the Stable Head, choose the option to feed 10, then get the Manor Key.
+    * 
   * Head back to the Manor Entrance
   * In the Manor, Turn the statue 0/0 as you can't get this right first try.
   * Cell Guards
@@ -218,45 +217,70 @@ You can find general knowledge that will be useful with any route you take
   * Choose not to save Kid (First options, so just mash)
   * Throw Poshul into the party to replace Kid.
   * Go talk to Korcha and ask for the boat (First option, just mash).
+    * After leaving the hosptial, go left to the next screen
+    * Go up the ladder, then go right to the next screen
   * Once the Macha dialogue finishes, head to the shrine for your fortune.
-  * Go talk to Macha and select option 2 to get on the boat.
+    * After leaving Korcha's house, go left to the next screen, then left again
+  * Go back to the hospital and talk to Macha, select option 2 to get on the boat.
   * ~15 second break during sail.
-  * Shop (Lisa's)
-    * 21 Capsules
-    * 11 Medicine
-    * 11 Ointment
-    * 1 CurePlus
-    * 2 HealAll
-    * 3 Aquaball (4 if no IceBlast)
-    * 2 Bushbasher
-  * Smith
-    * Sell - Bone Axe/Iron Dagger/Bronze Sword
-    * Disassemble - Silver Earring/Knee Pad/Silver Pendant
-    * Forge - Ladle Fe26/Steel Sword
-  * Rename Glenn to G, and replace Pierre with Glenn
-  * Swap out Poshul for Leena
-  * Head to Marbule
-  * Shop (straight ahead)
-    * 2 TurnBlue
-    * 1 TurnRed
-    * 2 TurnWhite
-    * 1 TurnBlack
-    * 1 Strengthen
-    * 1 EagleEye
-    * 1 WeakMinded
-  * Menu
-    * Serge (Equip) - Ivory Mail/Remove Ivory Helmet (Keep if 2 Magic Rings)
-    * Glenn (Equip) - Steel Sword
-    * Leena (Equip) - Ladle Fe26/Bronze Mail/Magic Ring/Ivory Helmet (Magic
-                      Ring if 2)
-    * Serge (Elements) - Lvl 1 - TurnBlue/WeakMinded/AquaBall,
-                         Lvl 2 - HealAll
-    * Glenn (Elements) - Lvl 1 - Strengthen/TurnBlue/AquaBall,
-                         Lvl 2 - Revive/HealAll/Medicine,
-                         Lvl 4 - Cureplus
-    * Leena (Elements) - Lvl 1 - EagleEye/TurnRed/AquaBall,
-                         Lvl 4 - Iceblast
-  * Head towards Fort Dragoon and enter the fog.
+  * Head to Lisa's shop (up the stairs, head right to the next screen, and continue right past the Bar)
+    * Buy (Total: **2175g/2275g**)
+      * 21 Capsules (**525g**)
+      * 11 Medicine (**165g**)
+      * 11 Ointment (**165g**)
+      * 1 CurePlus (**220g**)
+      * 2 HealAll (**600g**)
+      * 3 Aquaball (4 if no IceBlast) (**300g/400g**)
+      * 2 Bushbasher (**200g**)
+  * Head to the Smithy (Right out of Lisa's, up the walkway)
+    * Sell/Weapons
+      * Bone Axe (**+245g**)
+      * Iron Dagger (**+425g**)
+      * Bronze Sword (**+190g**)
+    * Disassemble/Assessories
+      * Silver Earring
+      * Knee Pad
+      * Silver Pendant
+    * Forge/Weapons
+      * Ladle Fe26 (**420g**)
+      * Steel Sword (**420g**)
+  * Head back to the main enterance of Termina and trigger the Glenn cutscene
+  * Talk to Macha and borrow the boat from her, and let Glenn join (Both first options, just mash X)
+  * Rename Glenn to G, replace Pierre with Glenn and replace Poshul with Leena
+  * Let Macha join, don't rename
+  * Head to Marbule (Southeast, Shell looking island)
+  * Go to Bro of Glenn's Shop (straight ahead)
+    * Buy (Total: **2170g**)
+    * 2 TurnBlue (**150g**)
+    * 1 TurnRed (**75g**)
+    * 2 TurnWhite (**150g**)
+    * 1 TurnBlack (**75g**)
+    * 1 Strengthen (**430g**)
+    * 1 EagleEye (**430g**)
+    * 1 WeakMinded (**430g**)
+  * Triangle Menu
+    * Equip
+      * Serge
+        * Ivory Mail (Replace Bronze Mail)
+        * Remove Ivory Helmet (**Unless you have two Magic Rings, then keep**)
+      * Glenn
+        * Steel Sword (Replace Bronze Sword)
+      * Leena
+        * Ladle Fe26 (Replace Spatula Ca20)
+        * Bronze Mail (Replace Ivory Vest)
+        * Either **2** Magic Rings, or **1** Magic Ring and Ivory Helmet
+    * Elements/Allocate
+      * Serge
+        * Level 1 - TurnBlue (Replace Fireball), AquaBall, WeakMinded
+        * Level 2 - HealAll
+      * Glenn
+        * Level 1 - Strengthen, TurnBlue, AquaBall
+        * Level 2 - Revive, HealAll, 5x Medicine
+        * Level 4 - CurePlus
+      * Leena
+        * Level 1 - EagleEye, TurnRed, AquaBall
+        * Level 4 - IceBlast
+  * Head towards Fort Dragoon (Northwest of Marbule) and enter the fog.
   * Run away from first fight.
   * [**Polly (567/18)**][13]
     * Glenn - 1/TurnBlue on Serge
@@ -267,7 +291,7 @@ You can find general knowledge that will be useful with any route you take
     * Attack until dead repeating above.
     * _MagmaBurst_ (Common/Rare)
 
-## Fargo (Split 10)
+## YAR HAR, FIDDLE DEE DEE (Split 10)
 
   * [**Fargo (693/8)**][14]
     * Glenn - 1/Strengthen on Serge
@@ -284,36 +308,27 @@ You can find general knowledge that will be useful with any route you take
 
   * Run away from the fight in the cabin.
   * Check the door just outside of the cabin.
-  * Up the ladder, first door on the left and enter the vent.
-  * Ghost dance!! Talk to the guy at the door, and spin around the ghost while
-    the text displays. When he lets you past, then talk to the guy past the
-    door.
-  * This guy could have the key, so ask him twice.
-  * Go back through the vent and grab the chest (Panacea). You will fight the
-    ghosts here as well. If it's 4 ghosts run away.
+  * Up the ladder, first door on the right and enter the vent.
+  * Ghost dance!! Talk to the guy at the door, and spin around the ghost while the text displays. When he lets you past, then talk to the guy past the door. **This guy could have the key, so ask him twice.**
+  * Go back through the vent and grab the chest (_Panacea_). You will fight the ghosts here as well. If it's **4** ghosts **run away**.
     * Serge - 2/2/3
     * Glenn - 2/2/3
-    * Serge - X-Strike
-  * Talk to the guy in this room, and hopefully he has the key, if not back
-    through the vent. If he does have the key skip the next 2 bullet points.
-  * Fight the skeleton fighting the next key holder, and ask him for the key
-    after the fight.
+    * Serge - Slash&Dash
+  * **IF YOU DON'T HAVE THE KEY YET** talk to the guy in this room, and hopefully he has the key. if not back through the vent.
+  * **IF YOU DON'T HAVE THE KEY YET** go back through the vent and fight the skeleton fighting the next key holder, and ask him for the key after the fight.
     * Serge - 2/2/3
     * Glenn - 2/2/3
-    * Serge - X-Strike
-  * If you have the key go to the next point. If still don't have the key, then
-    go back through the vent, down the ladder, through the 2nd door on the
-    right. Fight, then ask for the key. This guy will have the key.
+    * Serge - Slash&Dash
+  * Go back through the vent, down the ladder. **IF YOU DON'T HAVE THE KEY YET**, go through the 2nd door on the right. Fight, then ask for the key. **This guy will have the key**.
     * Serge - 2/2/3
     * Glenn - 2/2/3
-    * Serge - 2/2/X-Strike
-  * Now that you have the key, go through the door at the right end of the first
-    floor hallway.
-  * Through the door, and forward past 1 cannon, hard right to dodge, then to
-    the end.
-  * Dodge Everything!
-  * At the top of the last stairs, pick up PhotonBeam. Can skip if dropped after
-    Fargo.
+    * Serge - Slash&Dash
+  * **WHEN YOU GET THE KEY**, go through the door at the right end of the **first floor hallway** (Down the ladder if needed).
+  * Through the door, and forward past the 1st cannon and take a hard right to dodge the crawling skull, then out the door.
+  * Head left, down the ladder, then right to the door up the stairs. Navigate the room. **Dodge Everything!**
+  * At the top of the last stairs, pick up PhotonBeam. **Can skip if dropped after Fargo.**
+  * Run away from the first fight on the top of the stairs
+  * Head left, and mash X when talking to Fargo.
   * [**DeadHead (735/6)**][15]
     * Glenn - 1/Strengthen on Serge
     * Leena - 1/EagleEye on Serge
@@ -322,13 +337,13 @@ You can find general knowledge that will be useful with any route you take
     * Serge - 3/3
     * Glenn - 2/2/2/CurePlus+1 on DeadHead
     * Serge - 3/3/Dash & Slash
-    * _Hell Soul_ (Common)
+    * _HellSoul_ (Common)
     * _HellBound_ (Rare)
 
-## Solt and Pepper Once Again (Split 12)
+## Dash of Solt and Peppor (Split 12)
 
   * Head to Marbule
-  * Shop (Straight Ahead)
+  * Kid Bro of G's Shop (Straight Ahead)
     * 1 Diminish (Can skip if Cat%)
     * 1 Magnify (Sell Panacea if necessary)
   * To Mount Pyre
