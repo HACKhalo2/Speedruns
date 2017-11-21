@@ -50,7 +50,7 @@ You can find general knowledge that will be useful with any route you take
   * Go to the Beach (South of the Village), cutscene with **Leena**
     * _Choose 1st option on the first choice box, 2nd option on 2nd choice box to save a little bit of text._
   * After the cutscene and dialog, go back to the Village
-    * **Backup Strait Attempt 2**: _Go to island in middle or race circle, there is a Feather in a chest_.
+    * **Backup Strait Attempt 2**: _Go to the island in middle of the race circle, there is a Feather in the chest_.
     * Take upper path and to the left side to jump back to entrance.
   * Go up to the docks and talk to **Leena**
   * Head to Cape Howl (Northwest of the Village).
@@ -106,11 +106,19 @@ You can find general knowledge that will be useful with any route you take
   * Go down one flight of stairs and to the right, then up the first path in the next area
   * Enter the mansion at the end of the path, and pick up the _Profiteer Purse_ under the stair case.
   * Exit the Mansion and enter the Smithy, talk to the woman behind the counter.
-    * Disassemble the _Profiteer Purse_ and _Ivory Mail_.
-    * Build the _Steel Swallow_ and _Iron Dagger_. **You need 1K gold to be able to craft both items**
+    * Disassemble
+      * Profiteer Purse
+      * Ivory Mail
+    * Forge (**You need 1K gold to be able to craft both items**)
+      * Steel Swallow
+      * Iron Dagger
   * Triangle Menu
-    * Serge (Equip) - Steel Swallow/Ivory Helmet
-    * Kid (Equip) - Iron Dagger
+    * Equip
+      * Serge
+        * Steel Swallow
+        * Ivory Helmet
+      * Kid
+        * Iron Dagger
   * Talk to **Pierre** in the south room of the Smithy
   * Go south into the yard, get the _Medal of Honor_ from the running child.
   * Give the metal to **Pierre** with Square menu, then talk to him again, replace **Poshul** with **Pierre**
@@ -138,7 +146,7 @@ You can find general knowledge that will be useful with any route you take
 
   * Get the _Turn Yellow_ behind the gate.
   * Triangle Menu
-    * Heal Everyone
+    * **Heal Everyone**
   * Guard Fight(s)
     * 2/2/3 your way to victory.
   * Head to the stables
@@ -154,43 +162,50 @@ You can find general knowledge that will be useful with any route you take
   * In the Manor, Turn the statue 0/0
   * Cell Guards
     * Serge - 2/2/3
-    * Kid - 2/2/2/Magma Bomb
+    * Kid - 2/2/2/MagmaBomb
     * Serge - 2/2/3
   * Go to dining room and talk to **Glenn**.
   * Get Dragoon's Honor in corner.
   * Hug the walls of the hallway, and let **Glenn** walk through door of the bedroom before going in.
-  * Grab the revive on left hand side, then get code from the north wall next after **Glenn** walks away.
+  * Grab the Revive on the other side of the wall in the wooden chest, then get code from the north wall next after **Glenn** walks away.
   * Go to treasure room, and don't say anything when prompted.
-  * Pick up Bronze Sword and Bronze Mail from treasure room.
-  * Menu
-    * Serge (Equip) - Bronze Mail/Dragoon's Honor
-    * Pierre (Elements) - Turn Yellow/Revive
+  * Pick up _Bronze Sword_ and _Bronze Mail_ from treasure room.
+  * Triangle Menu
+    * Elements/Allocate
+      * Pierre
+        * Level 1 - Turn Yellow, Revive
+    * Equip
+      * Serge
+        * Bronze Mail
+        * Dragoon's Honor
   * Grab Treasure on wall.
   * [**Bulbs (168/10)**][10]
-    * Pierre - 1/Turn Yellow
+    * Pierre - 1/TurnYellow (Serge)
     * Serge - 2/3/2
     * Kid - 2/2/3
-    * Serge - 2/2/2/Dash & Slash
+    * Serge - 2/2/2/Dash&Slash
     * Kid - 2/2/3 (if needed)
     * _Eagle Eye_ (Common)
     * _AeroSaucer_ (Rare)
 
 ## Marcy (Split 7)
 
-  * Go to Karsh's Room (2nd door up the stairs, hug the walls) and try to take chest 20 times
-    for Dragoon's Gauntlet.
-  * Menu
-    * Serge (Equip) - Dragoon's Gauntlet
+  * Go to Karsh's Room (2nd door up the stairs, hug the walls) and try to take chest 20 times for Dragoon's Gauntlet.
+  * Triangle Menu
+    * Equip
+      * Serge
+        * Dragoon's Gauntlet
   * Go enter code obtained from earlier and enter main hall.
   * Head left to Balthasar's tower, and go talk to Marcy.
   * [**Marcy (498/7)**][11]
-    * Cat's Cradle at 249 HP.
+    * **Pre-Cat's Cradle** _(triggers at 249 or less HP)_.
     * Kid - 3/3
     * Serge - 1/1/2/2
-    * Kid - 3/3
+    * Kid - 3/_3_ (**skip the 2nd _3_ if the last 7 attacks connect**)
     * Serge - 1/1/2/2
     * Kid - 3/3
-    * Serge - (Post Cat's Cradle) 1/2/2/Slash & Dash
+    * **Post-Cat's Cradle**
+    * Serge - 1/2/2/Slash&Dash
     * Kid - Fireball+2
     * _IceBlast_ (Common)
     * _Iron_ (Rare)
@@ -199,23 +214,24 @@ You can find general knowledge that will be useful with any route you take
 
   * Head back to the main hall and talk to Harle.
   * Hit button behind 2nd pillar on left.
-  * Guards (Heal with consumables after)
+  * Guards
     * Serge - 2/3
     * Kid - 2/2/2
     * Serge - 2/3
+    * **Heal with consumables**
   * Go up elevator, and go through door straight ahead. Wait for ghost to shut
     his eye or else a battle will happen.
   * [**Lynx (861/8)**][12]
-    * Count crits and misses as they cancel each other out.
+    * **Count crits and misses as they cancel each other out**
     * Serge - 3/3 (1)
     * Kid - 2/2/2
     * Serge - 1 then 3/3 (2)
     * Kid - 2/2/3
-    * Serge - 3/3 (3) (Repeat if >1 miss)
+    * Serge - 3/3 (3) (**Repeat if >1 miss**)
     * Kid - 1/1/2/2/Pilfer
-    * Serge - 3/3/Slash & Dash if no misses
+    * Serge - 3/3/(**Slash&Dash if no misses**)
     * Pierre - 3
-    * Serge - 3/Slash & Dash
+    * Serge - 3/(**Slash&Dash if there were misses**)
     * Kid - 2/3/2
     * _Pendragon Sigil C_ (Common)
     * _Gravitonne_ (Rare)
